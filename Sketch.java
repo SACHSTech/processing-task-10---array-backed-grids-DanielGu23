@@ -19,7 +19,7 @@ public class Sketch extends PApplet {
   int[][] intGrid = new int[10][10];
   int CELL_WIDTH = 20;
   int CELL_HEIGHT = 20;
-	int MARGIN = 5;
+  int MARGIN = 5;
   int ROW_COUNT = 10;
   int COLUMN_COUNT = 10;
   int SCREEN_WIDTH = (ROW_COUNT * CELL_WIDTH) + ((ROW_COUNT + 1) * MARGIN);
